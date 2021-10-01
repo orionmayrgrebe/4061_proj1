@@ -39,10 +39,3 @@ Assumptions:
   - lines either started with a /t character or a regular character
   - lines ended with NULL
 
-Orion contributions:
-  - programmed process_into_objects()
-  - programmed p_function()
-  - programmed main()
-Sami contributions
-  - programmed r_function()
-  - programmed execute()
